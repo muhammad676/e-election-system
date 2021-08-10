@@ -7,6 +7,7 @@
     use Twilio\Rest\Client;
  
     $sid = "ACe88cc2527e83ab9c47bb99aeaa3fac64";
+	
     $token = "e6eef120c66b1e8e27d0354e7f203f96";
 
 	if(isset($_POST['register_voter'])){
